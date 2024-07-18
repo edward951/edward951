@@ -6,6 +6,7 @@
 <a href="https://www.tiktok.com/@reddragon_couplebiker" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@edward951" /></a>
 <a href="https://www.facebook.com/edward.fonsek.9/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@edward951"  /></a>
 <a href = "mailto:eafonseca17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@edward951"  /></a>
+  <a href="https://www.twitch.tv/ilm_reddragon" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="@edward951"  /></a>
   </p>
 <br>
 <h2>¿Quién soy? 😃</h2>
@@ -26,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,spring,angular,css,bootstrap,html,cypress,js,ts,nodejs,jquery,mysql,postgres,git,github,docker,postman,idea,vscode,notion,bash,figma,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,php,spring,angular,css,bootstrap,html,cypress,js,ts,npm,nodejs,jquery,mysql,postgres,git,github,gradle,docker,postman,idea,vscode,notion,bash,figma,ai,ps&perline=12" />
   </a>
 </p>
 <br>
