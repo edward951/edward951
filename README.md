@@ -1,20 +1,20 @@
 <h1 align="center">Hola 👋  soy Andres Fonseca / AndresDEV ✨ </h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@RedDragon_Lm2.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@edward951"  /></a>
-<a href="https://www.tiktok.com/@reddragon_couplebiker" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@edward951" /></a>
 <a href="https://www.linkedin.com/in/eduar-andres-fonseca-triana-software-developer/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@edward951"/></a>
+<a href="https://www.youtube.com/@RedDragon_Lm2.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@edward951"  /></a>
+<a href="https://www.tiktok.com/@reddragon_couplebiker" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@edward951" /></a>
 <a href="https://www.facebook.com/edward.fonsek.9/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@edward951"  /></a>
 <a href = "mailto:eafonseca17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@edward951"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>¿Quién soy? 😃</h2>
 <!--Intro start-->
 
 <p align="left">
 🎓 INGENIERO DE SISTEMAS Y TECNÓLOGO EN ANALISIS Y DESARROLLO DE SISTEMAS DE INFORMACIÓN
 
-💻 Unos cuántos años de experiencia en el proceso de desarrollo de software 🙈
+💻 Unos cuántos años de experiencia en el proceso de desarrollo de software y diseño 🙈
 
 📝 Roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
