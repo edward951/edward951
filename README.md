@@ -2,6 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eduar-andres-fonseca-triana-software-developer/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@edward951"/></a>
+<a href="https://www.instagram.com/am_desing_art/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="@edward951"/></a>
 <a href="https://www.youtube.com/@RedDragon_Lm2.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@edward951"  /></a>
 <a href="https://www.tiktok.com/@reddragon_ilm" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@edward951" /></a>
 <a href="https://www.facebook.com/edward.fonsek.9/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@edward951"  /></a>
