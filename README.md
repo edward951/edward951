@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/eduar-andres-fonseca-triana-software-developer/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@edward951"/></a>
 <a href="https://www.youtube.com/@RedDragon_Lm2.0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@edward951"  /></a>
-<a href="https://www.tiktok.com/@reddragon_couplebiker" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@edward951" /></a>
+<a href="https://www.tiktok.com/@reddragon_ilm" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@edward951" /></a>
 <a href="https://www.facebook.com/edward.fonsek.9/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@edward951"  /></a>
 <a href = "mailto:eafonseca17@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@edward951"  /></a>
   <a href="https://www.twitch.tv/ilm_reddragon" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="@edward951"  /></a>
