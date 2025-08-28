@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,vue,pinia,angular,css,bootstrap,html,cypress,js,ts,npm,nodejs,jquery,sqlite,mysql,postgres,git,github,gradle,docker,vite,postman,idea,vscode,notion,bash,figma,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,vue,pinia,threejs,vuetify,angular,yarn,css,bootstrap,html,cypress,js,ts,npm,nodejs,jquery,sqlite,mysql,postgres,git,github,gradle,docker,vite,postman,idea,vscode,notion,bash,figma,ai,ps&perline=12" />
   </a>
 </p>
 <br>
