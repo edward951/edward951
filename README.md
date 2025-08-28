@@ -18,7 +18,7 @@
 
 💻 Unos cuántos años de experiencia en el proceso de desarrollo de software y diseño 🙈
 
-📝 Roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: desarrollador... líder... emprendedor... Desarrollador Frontend -Backend... y en un futuro quién sabe ☺️
 
 📫 Contacto: **eafonseca17@gmail.com**
 <!--Intro end-->
